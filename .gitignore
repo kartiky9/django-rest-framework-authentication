@@ -112,3 +112,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Firebase Admin
+firebase-admin-secrets.json
